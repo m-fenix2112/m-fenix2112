@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-<!--
-**m-fenix2112/m-fenix2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my private project.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on mobile game.
+- 💬 Ask me about Servers Web development.
+- 📫 How to reach me: 
+
+
+- ⚡ Fun fact: I have Bad memory ^_^ .
+
 
 # Awesome Developer Profile
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
@@ -29,122 +27,7 @@ This repository was inspired from [Developer Portfolios](https://github.com/emma
 
 Make your Profile look good & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
----
 
-## A
-
-- [Abhinav Sharma](https://github.com/ABSphreak)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ABSphreak.png">
-  </details>
-- [acervenky](https://github.com/acervenky)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/acervenky.png">
-  </details>
-- [Adam Alston](https://github.com/adamalston)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/AdamAlston.png">
-  </details>
-- [Adrian Sudbury](https://github.com/asudbury)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/asudbury.png">
-  </details>
-- [Aditya Vikram Singh](https://github.com/AVS1508)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/AVS1508.png">
-  </details>
-- [afc163](https://github.com/afc163)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/afc163.png">
-  </details>
-- [Ahsan Khan](https://github.com/ahsankhan26)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ahsankhan26.PNG">
-  </details>  
-- [Akas Rai](https://github.com/akasrai)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/akasrai.png">
-  </details>
-- [Alfred Dagenais](https://github.com/alfreddagenais)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/alfreddagenais.png">
-  </details>
-- [Aman Ansari](https://github.com/aman-atg)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/aman-atg.png">
-  </details>
-- [Anurag Hazra](https://github.com/anuraghazra)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/anuraghazra.png">
-  </details>
-- [Ari](https://github.com/ari-hacks)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ari-hacks.png">
-  </details>
-- [Arturs Smirnovs](https://github.com/arturssmirnovs)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/arturssmirnovs.png">
-  </details>
-
-## B
-- [Bayrem Gharsellaoui](https://github.com/kaizoku-oh)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/kaizoku-oh.png">
-  </details>
-- [Brian Douglas](https://github.com/bdougie)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/bdougie.png">
-  </details>
-
-## C
-
-- [Claudio Wunder](https://github.com/ovflowd)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ovflowd.png">
-  </details>
-- [Chege Bryan](https://github.com/ChegeBryan)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/ChegeBryan.png">
-  </details>
-
-## D
-
-- [dahhd](https://github.com/dahhd)
-    <details>
-      <summary>Preview</summary>
-      <img src="EXAMPLES/dahhd.png">
-    </details>
-
-- [deep5050](https://github.com/deep5050)
-  <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/deep5050.png">
-    </details>
-
-- [Dineshkarthik](https://github.com/Dineshkarthik)
-    <details>
-      <summary>Preview</summary>
-      <img src="EXAMPLES/Dineshkarthik.png">
-    </details>
-
-## E
 
 - [Eana Hufwe](https://github.com/blueset)
   <details>
@@ -407,8 +290,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/WaylonWalker.png">
   </details>
 
-## Y
-
 
 
 <!-- sample badge demo https://simpleicons.org/ -->
@@ -425,4 +306,4 @@ Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-
 Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
 
 ## Github Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-fenix2112&show_icons=true)](https://github.com/m-fenix2112/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-fenix2112&show_icons=true)](https://github.com/m-fenix2112)
