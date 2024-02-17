@@ -21,17 +21,8 @@ Here are some ideas to get you started:
 ## Profile
 Property                 | Data  
 -------------------------|------
-Language / IDE           | [![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)] 
-[![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)]
-[![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)]
-[![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)]
-[![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)]
-[![Go Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-00ADD8?style=flat&logo=Go&logoColor=white)]
-[![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=OpenJDK&logoColor=white)]
-
-Tool / Framework         | 
-
-[![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)]
+Language / IDE           |[![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)][![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)][![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)][![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)][![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)][![Go Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-00ADD8?style=flat&logo=Go&logoColor=white)][![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=OpenJDK&logoColor=white)]
+Tool / Framework         |[![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)]
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)]
 [![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)]
 [![PyQt Badge](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=Qt&logoColor=white)]
