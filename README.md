@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 ## Profile
 Property                 | Data  
 -------------------------|------
-Language / IDE           | 
-
-[![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)] 
+Language / IDE           | [![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)] 
 [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)]
 [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)]
 [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)]
@@ -92,9 +90,7 @@ Side Projects - Web      |
 [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)]
 [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)]
 
-Reach Me                 | 
-
-[![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
+Reach Me                 | [![X Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/fenix2332) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:m.fenix2112@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhanned-masoud-91aab752/)
 
 ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-fenix2112&show_icons=true)](https://github.com/m-fenix2112)
