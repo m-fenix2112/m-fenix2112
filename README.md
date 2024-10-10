@@ -2,8 +2,8 @@
 
 ### Software Engineer | CTO | Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/muhannedmasoud)  
-Email: muhannedmasoud@gmail.com | Phone: (+356) 7793 7211
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhanned-s-masoud/)  
+Email: m.masoud.work+github@gmail.com | Phone: (+356) 7793 7211
 
 ---
 
@@ -24,10 +24,6 @@ I am a passionate **Software Engineer** and **CTO** with extensive experience in
 - Managing AWS services (EC2, RDS).
 - Leading the technical team (mobile, system).
 - Responsible for technical reporting and planning.
-
-### Digital Avenue | DevOps | Jan 2020 - May 2020
-- Managed multiple servers.
-- Led the web development team and followed up with clients.
 
 ---
 
@@ -69,11 +65,11 @@ I am a passionate **Software Engineer** and **CTO** with extensive experience in
 
 ## GitHub Stats
 
-![Muhanned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasperoratiy&show_icons=true&theme=radical)
+![Muhanned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-fenix2112&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasperoratiy&layout=compact&theme=radical)](https://github.com/rasperoratiy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-fenix2112&layout=compact&theme=radical)](https://github.com/m-fenix2112)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasperoratiy&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-fenix2112&theme=radical)
 
 ---
 
