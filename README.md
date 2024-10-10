@@ -7,16 +7,9 @@ Email: muhannedmasoud@gmail.com | Phone: (+356) 7793 7211
 
 ---
 
-### Hi there 👋
+## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my private project.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on mobile game development.
-- 💬 Ask me about Servers and Web development.
-- 📫 How to reach me: muhannedmasoud@gmail.com
-- ⚡ Fun fact: I have a bad memory ^_^.
+I am a passionate **Software Engineer** and **CTO** with extensive experience in **software development**, **network management**, and **DevOps**. Over the years, I have successfully led teams, managed projects, and built a wide range of systems, from web and mobile applications to networking solutions. My background in **full-stack development**, **DevOps**, and **project management** gives me a well-rounded skill set to tackle any technical challenge.
 
 ---
 
@@ -32,38 +25,70 @@ Here are some ideas to get you started:
 - Leading the technical team (mobile, system).
 - Responsible for technical reporting and planning.
 
+### Digital Avenue | DevOps | Jan 2020 - May 2020
+- Managed multiple servers.
+- Led the web development team and followed up with clients.
+
+---
+
+## Technical Skills
+
+### **Programming Languages**:
+- **Web**: HTML5, CSS3, JavaScript (ES6+), PHP, SQL
+- **Mobile**: Swift (iOS), Java (Android), Objective-C
+- **Desktop**: Java, Node.js, VB.NET
+- **Hardware**: Arduino
+
+### **Frameworks & Libraries**:
+- **Backend**: Laravel (PHP), Express.js (Node.js)
+- **Frontend**: Vue.js, Bootstrap, Tailwind CSS
+- **Mobile**: CocoaPods, ARKit, Alamofire (iOS), Firebase (cross-platform)
+- **Desktop**: Electron (cross-platform), JavaFX
+- **Gaming**: Unity (C#)
+
+### **DevOps & Cloud**:
+- **Cloud Platforms**: AWS (EC2, RDS, S3), DigitalOcean
+- **CI/CD**: Jenkins, Docker, GitHub Actions
+- **Server Management**: Ubuntu, CentOS, Microsoft Server
+- **Networking**: Cisco Firewalls, Mikrotik, Ubiquiti
+
+### **Databases**:
+- MySQL, PostgreSQL, MSSQL, MariaDB, Firebase Realtime Database
+
+### **Version Control**:
+- Git (GitHub, BitBucket)
+
+### **Testing**:
+- Unit Testing (JUnit, PHPUnit), Integration Testing, E2E Testing (Cypress)
+
+### **Other Tools**:
+- **3D Design**: Blender, Cinema 4D
+- **Collaboration**: Jira, Trello, Slack
+
 ---
 
 ## GitHub Stats
 
-![Muhanned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasperoratiy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasperoratiy&layout=compact&theme=radical)  
+![Muhanned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasperoratiy&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasperoratiy&layout=compact&theme=radical)](https://github.com/rasperoratiy)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasperoratiy&theme=radical)
-
----
-
-# Awesome Developer Profile
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rasperoratiy/pulls) [![HitCount](https://views.whatilearened.today/views/github/rasperoratiy.svg)](https://github.com/rasperoratiy)
-
----
-
-## Profile
-
-Property | Data  
----------|------
-Language / IDE | ![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white) ![Html+CSS+Javascript Badge](https://img.shields.io/badge/-VS%20Code-F7DF1E?style=flat&logo=javascript&logoColor=white) ![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)  
-Frameworks | ![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white) ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)  
-Databases | ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
-DevOps | ![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)
 
 ---
 
 ## Projects
 
-- **Mobile Applications**: Designed and developed apps for iOS and Android platforms.
-- **Network Installation**: Installed and managed networks for multiple organizations.
-- **Website Development**: Built and maintained websites using modern web technologies.
+- **Mobile Applications**: Designed and developed mobile apps for both iOS and Android platforms.
+- **Network Installation**: Installed and managed networks for multiple organizations including Petro Air, Almagharibia Pharma, and Ghalia Group.
+- **Website Development**: Built and maintained websites for various clients using modern web technologies.
+
+---
+
+## Education
+
+**Bachelor in System Programming**  
+College of Computer & Technology, Tripoli | 2012 - 2017
 
 ---
 
