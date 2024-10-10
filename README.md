@@ -3,17 +3,18 @@
 ### Software Engineer | CTO | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhanned-s-masoud/)  
+[![GitHub](https://img.shields.io/badge/GitHub-m--fenix2112-blue?logo=github)](https://github.com/m-fenix2112)  
 Email: m.masoud.work+github@gmail.com | Phone: (+356) 7793 7211
 
 ---
 
-## About Me
+## 👋 About Me
 
 I am a passionate **Software Engineer** and **CTO** with extensive experience in **software development**, **network management**, and **DevOps**. Over the years, I have successfully led teams, managed projects, and built a wide range of systems, from web and mobile applications to networking solutions. My background in **full-stack development**, **DevOps**, and **project management** gives me a well-rounded skill set to tackle any technical challenge.
 
 ---
 
-## Professional Experience
+## 🚀 Professional Experience
 
 ### Advanced Telesystems | Software Engineer | July 2022 - Present
 - Developing and integrating software solutions for multiple projects.
@@ -27,7 +28,7 @@ I am a passionate **Software Engineer** and **CTO** with extensive experience in
 
 ---
 
-## Technical Skills
+## 💼 Technical Skills
 
 ### **Programming Languages**:
 - **Web**: HTML5, CSS3, JavaScript (ES6+), PHP, SQL
@@ -63,17 +64,15 @@ I am a passionate **Software Engineer** and **CTO** with extensive experience in
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Muhanned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-fenix2112&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-fenix2112&layout=compact&theme=radical)](https://github.com/m-fenix2112)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-fenix2112&theme=radical)
+[![Muhanned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-fenix2112&show_icons=true&theme=blueberry)](https://github.com/m-fenix2112)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-fenix2112&layout=compact&theme=blueberry)](https://github.com/m-fenix2112)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-fenix2112&theme=blueberry)](https://github.com/m-fenix2112)
 
 ---
 
-## Projects
+## 💻 Projects
 
 - **Mobile Applications**: Designed and developed mobile apps for both iOS and Android platforms.
 - **Network Installation**: Installed and managed networks for multiple organizations including Petro Air, Almagharibia Pharma, and Ghalia Group.
@@ -81,14 +80,14 @@ I am a passionate **Software Engineer** and **CTO** with extensive experience in
 
 ---
 
-## Education
+## 🎓 Education
 
 **Bachelor in System Programming**  
 College of Computer & Technology, Tripoli | 2012 - 2017
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
 - **CCNA Certified**
 - Mikrotik Management & Configuration
@@ -96,9 +95,12 @@ College of Computer & Technology, Tripoli | 2012 - 2017
 
 ---
 
-## Contact
+## 📫 Contact
 
 Feel free to reach out for collaboration or project inquiries!
 
----
+- **Email**: m.masoud.work+github@gmail.com  
+- **LinkedIn**: [Muhanned S. Masoud](https://www.linkedin.com/in/muhanned-s-masoud/)  
+- **GitHub**: [m-fenix2112](https://github.com/m-fenix2112)
 
+---
