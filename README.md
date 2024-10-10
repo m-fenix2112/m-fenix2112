@@ -3,7 +3,6 @@
 ### Software Engineer | CTO | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhanned-s-masoud/)  
-[![GitHub](https://img.shields.io/badge/GitHub-m--fenix2112-blue?logo=github)](https://github.com/m-fenix2112)  
 Email: m.masoud.work+github@gmail.com | Phone: (+356) 7793 7211
 
 ---
@@ -101,6 +100,5 @@ Feel free to reach out for collaboration or project inquiries!
 
 - **Email**: m.masoud.work+github@gmail.com  
 - **LinkedIn**: [Muhanned S. Masoud](https://www.linkedin.com/in/muhanned-s-masoud/)  
-- **GitHub**: [m-fenix2112](https://github.com/m-fenix2112)
 
 ---
